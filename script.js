@@ -32,5 +32,3 @@ function generateTable() {
   table += "</table>";
   document.getElementById("result").innerHTML = table;
 }
-
-funtion
